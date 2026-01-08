@@ -1,4 +1,4 @@
-[![Mudrakshar](https://www.mudrakshar.com/public-assets/github_profile_header.png)](https://www.mudrakshar.com/learn)
+[![Mudrakshar](https://www.mudrakshar.com/public-assets/github-profile-header.png)](https://www.mudrakshar.com/learn)
 
 <!-- **mudrakshar-media-interactive-pvt-ltd/mudrakshar-media-interactive-pvt-ltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
